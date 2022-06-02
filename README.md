@@ -55,4 +55,4 @@ root
 ## Contact 📞
 
 ### Shaan Sundar ([LinkedIn](https://linkedin.com/in/notthatsundar), [Email](mailto:shaan.idtindia@gmail.com))
-```Add your Name and details here if you want to be of reachout too!```
+### Harshit Verma ([LinkedIn](https://www.linkedin.com/in/harshitverma355/), [Email](mailto:harshitverma591@gmail.com))
